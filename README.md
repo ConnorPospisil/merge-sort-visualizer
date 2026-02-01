@@ -2,7 +2,7 @@
 
 An interactive web-based visualization of the merge sort algorithm, demonstrating the divide-and-conquer approach with animated step-by-step execution.
 
-![Merge Sort Demo](demo.png)
+![Merge Sort Demo](Demo.png)
 
 ---
 
